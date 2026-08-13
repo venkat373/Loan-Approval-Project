@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Loan Approval Predictor", page_icon="🏦", layout="centered")
 
-ARTIFACTS_DIR = "artifacts"
+ARTIFACTS_DIR = "."
 
 
 @st.cache_resource
