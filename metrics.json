@@ -1,0 +1,35 @@
+{
+  "test_accuracy": 0.9824355971896955,
+  "best_params": {
+    "max_depth": null,
+    "min_samples_split": 2,
+    "n_estimators": 100
+  },
+  "report": {
+    "0": {
+      "precision": 0.98125,
+      "recall": 0.9721362229102167,
+      "f1-score": 0.9766718506998445,
+      "support": 323.0
+    },
+    "1": {
+      "precision": 0.9831460674157303,
+      "recall": 0.9887005649717514,
+      "f1-score": 0.9859154929577465,
+      "support": 531.0
+    },
+    "accuracy": 0.9824355971896955,
+    "macro avg": {
+      "precision": 0.9821980337078651,
+      "recall": 0.9804183939409841,
+      "f1-score": 0.9812936718287955,
+      "support": 854.0
+    },
+    "weighted avg": {
+      "precision": 0.9824289365313263,
+      "recall": 0.9824355971896955,
+      "f1-score": 0.9824193612840904,
+      "support": 854.0
+    }
+  }
+}
